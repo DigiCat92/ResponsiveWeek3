@@ -95,6 +95,7 @@ p {
   h3 {
     text-align: center;
     -webkit-text-size-adjust: 100%;
+    line-height: 1.5;
   }
   p {
     text-align: center;
