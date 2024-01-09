@@ -94,6 +94,10 @@ p {
   h2,
   h3 {
     text-align: center;
-    text-size-adjust: 30%;
+    font-size: 15px;
+  }
+  p {
+    text-align: center;
+    font-size: 10px;
   }
 }
